@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**kundnanl/kundnanl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Laksh Kundnani, a passionate and ambitious software developer studying Computer Systems Technology at Sheridan College. I love coding and exploring various technologies, with a particular interest in Java, Python, and web development. 
 
-Here are some ideas to get you started:
+## 🔭 Current Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Working on a web application to streamline data management using Java and MySQL.
+- Contributing to open-source projects to enhance my coding skills and give back to the community.
+
+## 🌱 Learning Goals
+
+- Mastering advanced Java concepts and design patterns.
+- Exploring cloud computing and DevOps technologies.
+
+## 👯 Looking to Collaborate
+
+I'm open to collaborating on exciting projects and contributing to meaningful ventures. Feel free to reach out if you have any interesting opportunities or ideas.
+
+## 📫 Get in Touch
+
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/lakshkundnani/)
+- Email: lakshkundnani78@gmail.com
+
+Let's connect and create something awesome together!
