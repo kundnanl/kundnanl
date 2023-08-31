@@ -1,15 +1,15 @@
 # Hi there 👋
 
-I'm Laksh Kundnani, a passionate and ambitious software developer studying Computer Systems Technology at Sheridan College. I love coding and exploring various technologies, with a particular interest in Java, Python, and web development. 
+I'm Laksh Kundnani, a passionate and ambitious software developer studying Computer Systems Technology at Sheridan College. I love coding and exploring various technologies, with a particular interest in Java, Artificial Intelligence, Python, and web development. 
 
-## 🔭 Current Projects
+## 🔭 Current Focus
 
-- Working on a web application to streamline data management using Java and MySQL.
-- Contributing to open-source projects to enhance my coding skills and give back to the community.
+- Working on exciting machine learning and deep learning projects to enhance my skills.
+- Exploring the realms of artificial intelligence and its applications in real-world scenarios.
 
 ## 🌱 Learning Goals
 
-- Mastering advanced Java concepts and design patterns.
+- Learning intermediate concepts in machine learning and deep learning.
 - Exploring cloud computing and DevOps technologies.
 
 ## 👯 Looking to Collaborate
