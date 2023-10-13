@@ -19,6 +19,6 @@ I'm open to collaborating on exciting projects and contributing to meaningful ve
 ## 📫 Get in Touch
 
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/lakshkundnani/)
-- Email: lakshkundnani78@gmail.com
+- Email: kundnanl@sheridancollege.ca
 
 Let's connect and create something awesome together!
